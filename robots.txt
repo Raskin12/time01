@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://madetotolink.ramdajs.com/sitemap.xml
